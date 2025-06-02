@@ -3,8 +3,10 @@ package Tema;
 public class clasa {
 
 	public static void main(String[] args) {
-		System.out.println("clasa!");
-		System.out.println("clasa!2");
+		int a = 45;
+		int b =45;
+		System.out.println("Suma: " + (a+b));
+		
 		
 	}
 
